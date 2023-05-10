@@ -26,7 +26,7 @@ After exceeding the package limits:
 1 text message: 1 cent
 1 GB of data: $7
 
-# Requirements/Questions to be answered: 
+# Instructions/Questions to be answered: 
 
 **Prepare the data**
 1. Convert the data to the necessary types
