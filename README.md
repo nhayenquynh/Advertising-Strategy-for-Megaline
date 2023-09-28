@@ -49,8 +49,11 @@ Describe the customers' behavior. Find the minutes, texts, and volume of data th
 2. The average revenue from users in NY-NJ area is different from that of the users from other regions.
 3. You decide what alpha value to use.
 
-Explain:
+**Explain**
 
 1. How you formulated the null and alternative hypotheses.
 2. What criterion you used to test the hypotheses and why.
+
+# Generated Graphs: 
+<img width="789" alt="image" src="https://github.com/nhayenquynh/Advertising-Strategy-for-Megaline/assets/125513684/3155da2c-cbad-4d38-ad6c-72e19962e7c4">
 
